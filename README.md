@@ -32,9 +32,11 @@ Em Dashboard.vue tem-se todas as consultas já marcadas em que o paciente pode v
 Detalhe: Ao marcarmos uma consulta, os dados vão para o banco JSON e ao desmarcarmos a consulta é deletada do banco, segue imagens abaixo
 
 ![image](https://user-images.githubusercontent.com/98840067/223598406-2155e9dc-aef5-45bf-bd00-e724ffb97eee.png)
+
 JSON com uma consulta marcada
 
 
 
 ![image](https://user-images.githubusercontent.com/98840067/223598497-dff383c4-14a3-4a8d-8af4-0e4f7fcdf07f.png)
+
 JSON após o paciente cancelar todas as consultas
