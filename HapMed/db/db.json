@@ -1,0 +1,73 @@
+{
+  "consultas": {
+    "especialidades": [
+      {
+        "id": 1,
+        "tipo": "Clínico Geral"
+      },
+      {
+        "id": 2,
+        "tipo": "Ortopedia"
+      },
+      {
+        "id": 3,
+        "tipo": "Otorrinolaringologia"
+      },
+      {
+        "id": 4,
+        "tipo": "Oftalmologia"
+      }
+    ],
+    "dtconsulta": [
+      {
+        "id": 1,
+        "tipo": "20/12/2023"
+      },
+      {
+        "id": 2,
+        "tipo": "21/12/2023"
+      },
+      {
+        "id": 3,
+        "tipo": "22/12/2023"
+      },
+      {
+        "id": 4,
+        "tipo": "23/12/2023"
+      }
+    ],
+    "horaconsulta": [
+      {
+        "id": 1,
+        "tipo": "08:00"
+      },
+      {
+        "id": 2,
+        "tipo": "09:00"
+      },
+      {
+        "id": 3,
+        "tipo": "10:00"
+      },
+      {
+        "id": 4,
+        "tipo": "11:00"
+      },
+      {
+        "id": 4,
+        "tipo": "14:00"
+      },
+      {
+        "id": 4,
+        "tipo": "15:00"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Marcada"
+    }
+  ],
+  "marcadas": []
+}
